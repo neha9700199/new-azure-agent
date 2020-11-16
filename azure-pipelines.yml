@@ -6,10 +6,7 @@ parameters:
   - name: variable_group
     default: "dev"
     values:
-      - "i-platform-dev"
-      - "astra"
-      - "ossaas"
-      - "sandbox"
+      - "dev"
 
 pr: none
 
